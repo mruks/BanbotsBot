@@ -7,7 +7,7 @@ You can even run it before stream to make sure that you have the latest ban list
 
 ## Instructions:
 	1. Go to the releases page, downloaded the latest exe
-	2. Check the banlist for bots you might use for your stream
+	2. Check the banlist for bots you might use for your stream and add/remove to the list what needs to change
 	3. Run the exe.
 	4. Go to your twitch chat click in the text entry field
 	5. Push ESC
