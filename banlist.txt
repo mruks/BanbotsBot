@@ -50,7 +50,6 @@ aten
 athaetim9590
 athena66782
 bandsan6780
-BANLISTEND
 bescmen3379
 bgrimfrid8851
 bigh0ssman
@@ -239,7 +238,6 @@ metaforick
 mikuia
 mmohamed9
 molsonfl
-moobot
 ndaniei
 newolk69
 night_php
@@ -303,7 +301,6 @@ SmallStreamersDCServer
 social_growth_discord
 socialfriends11
 songlistbot
-soundalerts
 spiketrapclair
 ssakdook
 stankubrick
