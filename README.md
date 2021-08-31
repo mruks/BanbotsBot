@@ -1,8 +1,8 @@
-# BanbotsBot
-Bans bots from a given list
-## AutoIT text entry script that bans bots from a text file.
+## BanbotsBot
+Bans bots from the banlist.txt file
 
-Simple bot that bans bots based on a textfile with identified bot accounts, 
+# Description of use
+Simple bot that bans bots based on a textfile with identified bot accounts.
 You can even run it before stream to make sure that you have the latest ban list (if you trust the list below)
 
 ## Instructions:
