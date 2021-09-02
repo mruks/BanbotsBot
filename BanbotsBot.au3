@@ -1,7 +1,7 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Res_Comment=Written and complied by MrUks
 #AutoIt3Wrapper_Res_Description=Bans all of the bots in banlist.txt
-#AutoIt3Wrapper_Res_Fileversion=1.0.0
+#AutoIt3Wrapper_Res_Fileversion=1.1.1.0
 #AutoIt3Wrapper_Res_ProductName=BanbotsBot
 #AutoIt3Wrapper_Res_ProductVersion=1.0.0
 #AutoIt3Wrapper_Res_CompanyName=MrUks
@@ -26,6 +26,10 @@ For $i = 1 to _FileCountLines($file)
    Send("{ENTER}")
    ; wait 200 milliseconds to write next line
    Sleep(200)
+   if _IsPressed("1B") Then
+	   MsgBox($MB_OK, "Banbot", "ATTENTION:I have been dereked! Murder has been me!")
+	   Exit -1
+   EndIf
 Next
 ; close file and tell user it's done
 FileClose($file)
